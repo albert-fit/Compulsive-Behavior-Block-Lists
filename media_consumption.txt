@@ -6,6 +6,7 @@
 # Format: hosts
 # Entries: 210
 # URL: https://raw.githubusercontent.com/albert-fit/Compulsive-Behavior-Block-Lists/refs/heads/main/media_consumption.txt
+#
 
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
