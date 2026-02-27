@@ -1,7 +1,6 @@
-# Media Consumption Addiction Block List
+# Albert's Media Consumption Addiction Block List
 # Popular social media platforms, video streaming, and content sites
 # Last Updated: February 2026
-
 # Video Streaming Platforms
 youtube.com
 www.youtube.com
@@ -11,7 +10,6 @@ youtube-nocookie.com
 vid.me
 vimeo.com
 www.vimeo.com
-
 # Social Media Platforms
 tiktok.com
 www.tiktok.com
@@ -32,7 +30,6 @@ www.snapchat.com
 reddit.com
 www.reddit.com
 m.reddit.com
-
 # Chat & Messaging Apps (Social/Entertainment)
 discord.com
 www.discord.com
@@ -43,7 +40,6 @@ telegram.org
 t.me
 whatsapp.com
 icanhazchat.com
-
 # Short-form Video & Content
 vine.com
 triller.co
@@ -53,7 +49,6 @@ bigo.tv
 omegle.com
 chatroulette.com
 omegle.tv
-
 # Streaming Platforms
 netflix.com
 www.netflix.com
@@ -72,7 +67,6 @@ paramountplus.com
 www.paramountplus.com
 appletv.com
 www.appletv.com
-
 # Music & Podcast Streaming
 spotify.com
 www.spotify.com
@@ -82,7 +76,6 @@ soundcloud.com
 www.soundcloud.com
 bandcamp.com
 spotify.com
-
 # News & Content Aggregation
 buzzfeed.com
 www.buzzfeed.com
@@ -92,14 +85,12 @@ medium.com
 www.medium.com
 quora.com
 www.quora.com
-
 # Gaming & Streaming
 twitch.tv
 www.twitch.tv
 mixer.com
 youtubestream.com
 kick.stream
-
 # Photo Sharing
 pinterest.com
 www.pinterest.com
@@ -107,7 +98,6 @@ flickr.com
 www.flickr.com
 imgurcom
 www.imgur.com
-
 # Additional Social Networks
 mastodon.social
 threads.net
@@ -118,7 +108,6 @@ nextdoor.com
 www.nextdoor.com
 meetup.com
 www.meetup.com
-
 # Dating & Social Discovery
 tinder.com
 www.tinder.com
@@ -126,7 +115,6 @@ bumble.com
 www.bumble.com
 hinge.co
 www.hinge.co
-
 # Live Streaming
 YouTube Live
 Twitch

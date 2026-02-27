@@ -1,223 +1,352 @@
-# UK Shopping Websites Blocklist
-
-# Major Retailers
+# Albert's UK Shopping Websites Blocklist# Major Retailers
 amazon.co.uk
+www.amazon.co.uk
 amazon.com
+www.amazon.com
 ebay.co.uk
+www.ebay.co.uk
 ebay.com
+www.ebay.com
 argos.co.uk
+www.argos.co.uk
 johnlewis.com
+www.johnlewis.com
 currys.co.uk
+www.currys.co.uk
 ao.com
+www.ao.com
 very.co.uk
+www.very.co.uk
 next.co.uk
+www.next.co.uk
 marksandspencer.com
+www.marksandspencer.com
 m-and-s.com
+www.m-and-s.com
 tesco.com
+www.tesco.com
 asda.com
+www.asda.com
 sainsburys.co.uk
+www.sainsburys.co.uk
 boots.com
+www.boots.com
 superdrug.com
-
-# Fashion & Clothing
+www.superdrug.com# Fashion & Clothing
 asos.com
+www.asos.com
 boohoo.com
+www.boohoo.com
 prettylittlething.com
+www.prettylittlething.com
 zara.com
+www.zara.com
 hm.com
+www.hm.com
 h-and-m.com
+www.h-and-m.com
 primark.com
+www.primark.com
 newlook.com
+www.newlook.com
 riverisland.com
+www.riverisland.com
 topshop.com
+www.topshop.com
 jdsports.co.uk
+www.jdsports.co.uk
 jdsports.com
+www.jdsports.com
 sportsdirect.com
+www.sportsdirect.com
 nike.com
+www.nike.com
 adidas.co.uk
+www.adidas.co.uk
 adidas.com
-
-# Home & Garden
+www.adidas.com# Home & Garden
 ikea.com
+www.ikea.com
 ikea.co.uk
+www.ikea.co.uk
 dunelm.com
+www.dunelm.com
 homebase.co.uk
+www.homebase.co.uk
 screwfix.com
+www.screwfix.com
 toolstation.com
+www.toolstation.com
 wickes.co.uk
+www.wickes.co.uk
 diy.com
+www.diy.com
 bandq.co.uk
-
-# Electronics & Tech
+www.bandq.co.uk# Electronics & Tech
 currys.co.uk
+www.currys.co.uk
 scan.co.uk
+www.scan.co.uk
 overclockers.co.uk
+www.overclockers.co.uk
 cclonline.com
+www.cclonline.com
 ebuyer.com
+www.ebuyer.com
 appledirect.com
-
-# Music Equipment (Specialist)
+www.appledirect.com# Music Equipment (Specialist)
 andertons.co.uk
+www.andertons.co.uk
 gak.co.uk
+www.gak.co.uk
 thomann.de
+www.thomann.de
 guitarguitar.co.uk
+www.guitarguitar.co.uk
 pmtonline.co.uk
+www.pmtonline.co.uk
 gear4music.com
-
-# Hobby & Crafts
+www.gear4music.com# Hobby & Crafts
 hobbycraft.co.uk
+www.hobbycraft.co.uk
 modelzone.co.uk
+www.modelzone.co.uk
 jadlamracingmodels.com
+www.jadlamracingmodels.com
 wonderlandmodels.com
+www.wonderlandmodels.com
 spiritgames.co.uk
+www.spiritgames.co.uk
 firestormgames.co.uk
-
-# Books & Media
+www.firestormgames.co.uk# Books & Media
 waterstones.com
+www.waterstones.com
 whsmith.co.uk
+www.whsmith.co.uk
 blackwells.co.uk
+www.blackwells.co.uk
 bookshop.org
+www.bookshop.org
 cex.co.uk
+www.cex.co.uk
 webuy.com
+www.webuy.com
 hmv.com
-
-# Other Popular Retailers
+www.hmv.com# Other Popular Retailers
 etsy.com
+www.etsy.com
 etsy.co.uk
+www.etsy.co.uk
 wayfair.co.uk
+www.wayfair.co.uk
 wayfair.com
+www.wayfair.com
 notino.co.uk
+www.notino.co.uk
 lookfantastic.com
+www.lookfantastic.com
 therange.co.uk
+www.therange.co.uk
 wilko.com
+www.wilko.com
 poundland.co.uk
-
-
+www.poundland.co.uk
 # Photography
 wexphotovideo.com
+www.wexphotovideo.com
 parkcameras.com
+www.parkcameras.com
 jessops.co.uk
+www.jessops.co.uk
 mpb.com
+www.mpb.com
 lcegroup.co.uk
+www.lcegroup.co.uk
 calumetphoto.co.uk
-
-# Cycling
+www.calumetphoto.co.uk# Cycling
 wiggle.co.uk
+www.wiggle.co.uk
 chainreactioncycles.com
+www.chainreactioncycles.com
 evanscycles.com
+www.evanscycles.com
 tredz.co.uk
+www.tredz.co.uk
 halfords.com
+www.halfords.com
 cyclesurgery.com
+www.cyclesurgery.com
 rutlandcycling.com
-
-# Skateboarding & Action Sports
+www.rutlandcycling.com# Skateboarding & Action Sports
 route-one.co.uk
+www.route-one.co.uk
 nativeskatestore.co.uk
+www.nativeskatestore.co.uk
 slamskateboarding.com
+www.slamskateboarding.com
 boardshop.co.uk
+www.boardshop.co.uk
 redbullshopuk.com
+www.redbullshopuk.com
 surfdome.com
-
-# Fishing
+www.surfdome.com# Fishing
 anglingdirect.co.uk
+www.anglingdirect.co.uk
 tackleuk.co.uk
+www.tackleuk.co.uk
 fishingrepublic.co.uk
+www.fishingrepublic.co.uk
 sportfish.co.uk
+www.sportfish.co.uk
 totalfishing.com
-
-# Running & Outdoor
+www.totalfishing.com# Running & Outdoor
 runnersneed.com
+www.runnersneed.com
 sweatshop.co.uk
+www.sweatshop.co.uk
 cotswoldoutdoor.com
+www.cotswoldoutdoor.com
 gooutdoors.co.uk
+www.gooutdoors.co.uk
 snowandrock.com
+www.snowandrock.com
 ellis-brigham.com
+www.ellis-brigham.com
 tiso.com
-
-# Skiing & Snowboarding
+www.tiso.com# Skiing & Snowboarding
 snow-rock.com
+www.snow-rock.com
 ski-bartlett.com
+www.ski-bartlett.com
 snowtrax.com
+www.snowtrax.com
 profeet.co.uk
+www.profeet.co.uk
 absolute-snow.co.uk
+www.absolute-snow.co.uk
 skiwebshop.com
+www.skiwebshop.com
 snowboarder-mbm.co.uk
+www.snowboarder-mbm.co.uk
 ski.co.uk
+www.ski.co.uk
 skibartlett.com
-
-# Water Sports & Surfing
+www.skibartlett.com# Water Sports & Surfing
 surfdome.com
+www.surfdome.com
 saltrocksurfshop.com
+www.saltrocksurfshop.com
 warehamsurf.co.uk
+www.warehamsurf.co.uk
 kingofwatersports.com
+www.kingofwatersports.com
 wetsuitoutlet.co.uk
+www.wetsuitoutlet.co.uk
 oceanmagic.co.uk
+www.oceanmagic.co.uk
 sussexwatersports.co.uk
+www.sussexwatersports.co.uk
 boardshop.co.uk
+www.boardshop.co.uk
 ripcurl.eu
+www.ripcurl.eu
 wetsuit-warehouse.co.uk
-
-# Climbing & Mountaineering
+www.wetsuit-warehouse.co.uk# Climbing & Mountaineering
 rockrun.com
+www.rockrun.com
 v12outdoor.com
+www.v12outdoor.com
 outside.co.uk
+www.outside.co.uk
 bananafingers.co.uk
+www.bananafingers.co.uk
 climbinganchors.co.uk
+www.climbinganchors.co.uk
 weighmyrack.com
-
-# Camping & Hiking
+www.weighmyrack.com# Camping & Hiking
 ultralightoutdoorgear.co.uk
+www.ultralightoutdoorgear.co.uk
 alpkit.com
+www.alpkit.com
 mountainwarehouse.com
+www.mountainwarehouse.com
 rohan.co.uk
+www.rohan.co.uk
 berghaus.com
+www.berghaus.com
 rab.equipment
+www.rab.equipment
 montane.com
-
-# Gaming
+www.montane.com# Gaming
 game.co.uk
+www.game.co.uk
 gamestop.co.uk
+www.gamestop.co.uk
 shopto.net
+www.shopto.net
 simplygames.com
+www.simplygames.com
 thegamecollection.net
-
-# Art Supplies
+www.thegamecollection.net# Art Supplies
 cass-art.co.uk
+www.cass-art.co.uk
 greatart.co.uk
+www.greatart.co.uk
 jacksonsart.com
+www.jacksonsart.com
 artsupplies.co.uk
+www.artsupplies.co.uk
 londongraphics.co.uk
-
-# Model Railways & Scale Models
+www.londongraphics.co.uk# Model Railways & Scale Models
 hattons.co.uk
+www.hattons.co.uk
 kernowmodelrailcentre.com
+www.kernowmodelrailcentre.com
 rails.org.uk
+www.rails.org.uk
 gaugemaster.com
-
-# Gardening
+www.gaugemaster.com# Gardening
 gardenersworld.com
+www.gardenersworld.com
 crocus.co.uk
+www.crocus.co.uk
 thompson-morgan.com
+www.thompson-morgan.com
 gardening-direct.co.uk
+www.gardening-direct.co.uk
 yourgarden.sainsburys.co.uk
-
-# Pet Supplies
+www.yourgarden.sainsburys.co.uk# Pet Supplies
 petsathome.com
+www.petsathome.com
 zooplus.co.uk
+www.zooplus.co.uk
 petplanet.co.uk
+www.petplanet.co.uk
 viovet.co.uk
-
-# Board Games & Wargaming
+www.viovet.co.uk# Board Games & Wargaming
 boardgameprices.co.uk
+www.boardgameprices.co.uk
 chaoscards.co.uk
+www.chaoscards.co.uk
 magicmadhouse.co.uk
+www.magicmadhouse.co.uk
 triplehelixwargames.co.uk
+www.triplehelixwargames.co.uk
 darksphere.co.uk
+www.darksphere.co.uk
 waylandgames.co.uk
+www.waylandgames.co.uk
 elementgames.co.uk
+www.elementgames.co.uk
 goblingaming.co.uk
+www.goblingaming.co.uk
 totalwargamer.co.uk
+www.totalwargamer.co.uk
 wargamer.co.uk
+www.wargamer.co.uk
 warlordgames.com
+www.warlordgames.com
 games-workshop.com
+www.games-workshop.com
 forgeworld.co.uk
+www.forgeworld.co.uk
