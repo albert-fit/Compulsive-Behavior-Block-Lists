@@ -120,123 +120,115 @@
 0.0.0.0 www.hinge.co
 # Live Streaming
 0.0.0.0 linkedin.com
-youtube.com
-www.youtube.com
-m.youtube.com
-youtu.be
-youtube-nocookie.com
-vid.me
-vimeo.com
-www.vimeo.com
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 vid.me
+0.0.0.0 vimeo.com
+0.0.0.0 www.vimeo.com
 # Social Media Platforms
-tiktok.com
-www.tiktok.com
-m.tiktok.com
-instagram.com
-www.instagram.com
-m.instagram.com
-facebook.com
-www.facebook.com
-m.facebook.com
-fb.com
-twitter.com
-x.com
-www.twitter.com
-www.x.com
-snapchat.com
-www.snapchat.com
-reddit.com
-www.reddit.com
-m.reddit.com
+0.0.0.0 tiktok.com
+0.0.0.0 www.tiktok.com
+0.0.0.0 m.tiktok.com
+0.0.0.0 instagram.com
+0.0.0.0 www.instagram.com
+0.0.0.0 m.instagram.com
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 m.facebook.com
+0.0.0.0 fb.com
+0.0.0.0 twitter.com
+0.0.0.0 x.com
+0.0.0.0 www.twitter.com
+0.0.0.0 www.x.com
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 m.reddit.com
 # Chat & Messaging Apps (Social/Entertainment)
-discord.com
-www.discord.com
-discordapp.com
-twitch.tv
-www.twitch.tv
-telegram.org
-t.me
-whatsapp.com
-icanhazchat.com
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 telegram.org
+0.0.0.0 t.me
+0.0.0.0 whatsapp.com
+0.0.0.0 icanhazchat.com
 # Short-form Video & Content
-vine.com
-triller.co
-quokka.com
-likee.com
-bigo.tv
-omegle.com
-chatroulette.com
-omegle.tv
+0.0.0.0 vine.com
+0.0.0.0 triller.co
+0.0.0.0 quokka.com
+0.0.0.0 likee.com
+0.0.0.0 bigo.tv
+0.0.0.0 omegle.com
+0.0.0.0 chatroulette.com
+0.0.0.0 omegle.tv
 # Streaming Platforms
-netflix.com
-www.netflix.com
-disneyplus.com
-www.disneyplus.com
-hulu.com
-www.hulu.com
-amazon.com/prime
-primevideo.com
-www.primevideo.com
-hbomax.com
-www.hbomax.com
-peacocktv.com
-www.peacocktv.com
-paramountplus.com
-www.paramountplus.com
-appletv.com
-www.appletv.com
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 hulu.com
+0.0.0.0 www.hulu.com
+0.0.0.0 amazon.com
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 hbomax.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 peacocktv.com
+0.0.0.0 www.peacocktv.com
+0.0.0.0 paramountplus.com
+0.0.0.0 www.paramountplus.com
+0.0.0.0 appletv.com
+0.0.0.0 www.appletv.com
 # Music & Podcast Streaming
-spotify.com
-www.spotify.com
-apple.com/music
-podcasts.apple.com
-soundcloud.com
-www.soundcloud.com
-bandcamp.com
-spotify.com
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+0.0.0.0 apple.com
+0.0.0.0 podcasts.apple.com
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+0.0.0.0 bandcamp.com
 # News & Content Aggregation
-buzzfeed.com
-www.buzzfeed.com
-9gag.com
-www.9gag.com
-medium.com
-www.medium.com
-quora.com
-www.quora.com
+0.0.0.0 buzzfeed.com
+0.0.0.0 www.buzzfeed.com
+0.0.0.0 9gag.com
+0.0.0.0 www.9gag.com
+0.0.0.0 medium.com
+0.0.0.0 www.medium.com
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
 # Gaming & Streaming
-twitch.tv
-www.twitch.tv
-mixer.com
-youtubestream.com
-kick.stream
+0.0.0.0 mixer.com
+0.0.0.0 youtubestream.com
+0.0.0.0 kick.stream
 # Photo Sharing
-pinterest.com
-www.pinterest.com
-flickr.com
-www.flickr.com
-imgurcom
-www.imgur.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 flickr.com
+0.0.0.0 www.flickr.com
+0.0.0.0 imgur.com
+0.0.0.0 www.imgur.com
 # Additional Social Networks
-mastodon.social
-threads.net
-www.threads.net
-bluesky.com
-www.bluesky.com
-nextdoor.com
-www.nextdoor.com
-meetup.com
-www.meetup.com
+0.0.0.0 mastodon.social
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+0.0.0.0 bluesky.com
+0.0.0.0 www.bluesky.com
+0.0.0.0 nextdoor.com
+0.0.0.0 www.nextdoor.com
+0.0.0.0 meetup.com
+0.0.0.0 www.meetup.com
 # Dating & Social Discovery
-tinder.com
-www.tinder.com
-bumble.com
-www.bumble.com
-hinge.co
-www.hinge.co
+0.0.0.0 tinder.com
+0.0.0.0 www.tinder.com
+0.0.0.0 bumble.com
+0.0.0.0 www.bumble.com
+0.0.0.0 hinge.co
+0.0.0.0 www.hinge.co
 # Live Streaming
-YouTube Live
-Twitch
-Facebook Live
-LinkedIn Live
-Instagram Live
-TikTok Live
+0.0.0.0 linkedin.com
