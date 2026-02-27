@@ -1,352 +1,402 @@
-# Albert's UK Shopping Websites Blocklist# Major Retailers
-amazon.co.uk
-www.amazon.co.uk
-amazon.com
-www.amazon.com
-ebay.co.uk
-www.ebay.co.uk
-ebay.com
-www.ebay.com
-argos.co.uk
-www.argos.co.uk
-johnlewis.com
-www.johnlewis.com
-currys.co.uk
-www.currys.co.uk
-ao.com
-www.ao.com
-very.co.uk
-www.very.co.uk
-next.co.uk
-www.next.co.uk
-marksandspencer.com
-www.marksandspencer.com
-m-and-s.com
-www.m-and-s.com
-tesco.com
-www.tesco.com
-asda.com
-www.asda.com
-sainsburys.co.uk
-www.sainsburys.co.uk
-boots.com
-www.boots.com
-superdrug.com
-www.superdrug.com# Fashion & Clothing
-asos.com
-www.asos.com
-boohoo.com
-www.boohoo.com
-prettylittlething.com
-www.prettylittlething.com
-zara.com
-www.zara.com
-hm.com
-www.hm.com
-h-and-m.com
-www.h-and-m.com
-primark.com
-www.primark.com
-newlook.com
-www.newlook.com
-riverisland.com
-www.riverisland.com
-topshop.com
-www.topshop.com
-jdsports.co.uk
-www.jdsports.co.uk
-jdsports.com
-www.jdsports.com
-sportsdirect.com
-www.sportsdirect.com
-nike.com
-www.nike.com
-adidas.co.uk
-www.adidas.co.uk
-adidas.com
-www.adidas.com# Home & Garden
-ikea.com
-www.ikea.com
-ikea.co.uk
-www.ikea.co.uk
-dunelm.com
-www.dunelm.com
-homebase.co.uk
-www.homebase.co.uk
-screwfix.com
-www.screwfix.com
-toolstation.com
-www.toolstation.com
-wickes.co.uk
-www.wickes.co.uk
-diy.com
-www.diy.com
-bandq.co.uk
-www.bandq.co.uk# Electronics & Tech
-currys.co.uk
-www.currys.co.uk
-scan.co.uk
-www.scan.co.uk
-overclockers.co.uk
-www.overclockers.co.uk
-cclonline.com
-www.cclonline.com
-ebuyer.com
-www.ebuyer.com
-appledirect.com
-www.appledirect.com# Music Equipment (Specialist)
-andertons.co.uk
-www.andertons.co.uk
-gak.co.uk
-www.gak.co.uk
-thomann.de
-www.thomann.de
-guitarguitar.co.uk
-www.guitarguitar.co.uk
-pmtonline.co.uk
-www.pmtonline.co.uk
-gear4music.com
-www.gear4music.com# Hobby & Crafts
-hobbycraft.co.uk
-www.hobbycraft.co.uk
-modelzone.co.uk
-www.modelzone.co.uk
-jadlamracingmodels.com
-www.jadlamracingmodels.com
-wonderlandmodels.com
-www.wonderlandmodels.com
-spiritgames.co.uk
-www.spiritgames.co.uk
-firestormgames.co.uk
-www.firestormgames.co.uk# Books & Media
-waterstones.com
-www.waterstones.com
-whsmith.co.uk
-www.whsmith.co.uk
-blackwells.co.uk
-www.blackwells.co.uk
-bookshop.org
-www.bookshop.org
-cex.co.uk
-www.cex.co.uk
-webuy.com
-www.webuy.com
-hmv.com
-www.hmv.com# Other Popular Retailers
-etsy.com
-www.etsy.com
-etsy.co.uk
-www.etsy.co.uk
-wayfair.co.uk
-www.wayfair.co.uk
-wayfair.com
-www.wayfair.com
-notino.co.uk
-www.notino.co.uk
-lookfantastic.com
-www.lookfantastic.com
-therange.co.uk
-www.therange.co.uk
-wilko.com
-www.wilko.com
-poundland.co.uk
-www.poundland.co.uk
+# Title: Shopping Block List
+# Description: UK Shopping and retail website domains
+# Homepage: https://github.com/albert-fit/Compulsive-Behavior-Block-Lists/tree/main
+# License: MIT
+# Last modified: 2025-01-XX XX:XX:XX UTC
+# Format: hosts
+# Entries: 329
+# URL: https://raw.githubusercontent.com/Albert/blocklists/main/shopping.txt
+#
+# This list blocks major UK and international shopping websites
+# to help reduce impulsive online shopping
+#
+
+# Major Retailers
+0.0.0.0 amazon.co.uk
+0.0.0.0 www.amazon.co.uk
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 ebay.co.uk
+0.0.0.0 www.ebay.co.uk
+0.0.0.0 ebay.com
+0.0.0.0 www.ebay.com
+0.0.0.0 argos.co.uk
+0.0.0.0 www.argos.co.uk
+0.0.0.0 johnlewis.com
+0.0.0.0 www.johnlewis.com
+0.0.0.0 currys.co.uk
+0.0.0.0 www.currys.co.uk
+0.0.0.0 ao.com
+0.0.0.0 www.ao.com
+0.0.0.0 very.co.uk
+0.0.0.0 www.very.co.uk
+0.0.0.0 next.co.uk
+0.0.0.0 www.next.co.uk
+0.0.0.0 marksandspencer.com
+0.0.0.0 www.marksandspencer.com
+0.0.0.0 m-and-s.com
+0.0.0.0 www.m-and-s.com
+0.0.0.0 tesco.com
+0.0.0.0 www.tesco.com
+0.0.0.0 asda.com
+0.0.0.0 www.asda.com
+0.0.0.0 sainsburys.co.uk
+0.0.0.0 www.sainsburys.co.uk
+0.0.0.0 boots.com
+0.0.0.0 www.boots.com
+0.0.0.0 superdrug.com
+0.0.0.0 www.superdrug.com
+
+# Fashion & Clothing
+0.0.0.0 asos.com
+0.0.0.0 www.asos.com
+0.0.0.0 boohoo.com
+0.0.0.0 www.boohoo.com
+0.0.0.0 prettylittlething.com
+0.0.0.0 www.prettylittlething.com
+0.0.0.0 zara.com
+0.0.0.0 www.zara.com
+0.0.0.0 hm.com
+0.0.0.0 www.hm.com
+0.0.0.0 h-and-m.com
+0.0.0.0 www.h-and-m.com
+0.0.0.0 primark.com
+0.0.0.0 www.primark.com
+0.0.0.0 newlook.com
+0.0.0.0 www.newlook.com
+0.0.0.0 riverisland.com
+0.0.0.0 www.riverisland.com
+0.0.0.0 topshop.com
+0.0.0.0 www.topshop.com
+0.0.0.0 jdsports.co.uk
+0.0.0.0 www.jdsports.co.uk
+0.0.0.0 jdsports.com
+0.0.0.0 www.jdsports.com
+0.0.0.0 sportsdirect.com
+0.0.0.0 www.sportsdirect.com
+0.0.0.0 nike.com
+0.0.0.0 www.nike.com
+0.0.0.0 adidas.co.uk
+0.0.0.0 www.adidas.co.uk
+0.0.0.0 adidas.com
+0.0.0.0 www.adidas.com
+
+# Home & Garden
+0.0.0.0 ikea.com
+0.0.0.0 www.ikea.com
+0.0.0.0 ikea.co.uk
+0.0.0.0 www.ikea.co.uk
+0.0.0.0 dunelm.com
+0.0.0.0 www.dunelm.com
+0.0.0.0 homebase.co.uk
+0.0.0.0 www.homebase.co.uk
+0.0.0.0 screwfix.com
+0.0.0.0 www.screwfix.com
+0.0.0.0 toolstation.com
+0.0.0.0 www.toolstation.com
+0.0.0.0 wickes.co.uk
+0.0.0.0 www.wickes.co.uk
+0.0.0.0 diy.com
+0.0.0.0 www.diy.com
+0.0.0.0 bandq.co.uk
+0.0.0.0 www.bandq.co.uk
+
+# Electronics & Tech
+0.0.0.0 scan.co.uk
+0.0.0.0 www.scan.co.uk
+0.0.0.0 overclockers.co.uk
+0.0.0.0 www.overclockers.co.uk
+0.0.0.0 cclonline.com
+0.0.0.0 www.cclonline.com
+0.0.0.0 ebuyer.com
+0.0.0.0 www.ebuyer.com
+0.0.0.0 appledirect.com
+0.0.0.0 www.appledirect.com
+
+# Music Equipment
+0.0.0.0 andertons.co.uk
+0.0.0.0 www.andertons.co.uk
+0.0.0.0 gak.co.uk
+0.0.0.0 www.gak.co.uk
+0.0.0.0 thomann.de
+0.0.0.0 www.thomann.de
+0.0.0.0 guitarguitar.co.uk
+0.0.0.0 www.guitarguitar.co.uk
+0.0.0.0 pmtonline.co.uk
+0.0.0.0 www.pmtonline.co.uk
+0.0.0.0 gear4music.com
+0.0.0.0 www.gear4music.com
+
+# Hobby & Crafts
+0.0.0.0 hobbycraft.co.uk
+0.0.0.0 www.hobbycraft.co.uk
+0.0.0.0 modelzone.co.uk
+0.0.0.0 www.modelzone.co.uk
+0.0.0.0 jadlamracingmodels.com
+0.0.0.0 www.jadlamracingmodels.com
+0.0.0.0 wonderlandmodels.com
+0.0.0.0 www.wonderlandmodels.com
+0.0.0.0 spiritgames.co.uk
+0.0.0.0 www.spiritgames.co.uk
+0.0.0.0 firestormgames.co.uk
+0.0.0.0 www.firestormgames.co.uk
+
+# Books & Media
+0.0.0.0 waterstones.com
+0.0.0.0 www.waterstones.com
+0.0.0.0 whsmith.co.uk
+0.0.0.0 www.whsmith.co.uk
+0.0.0.0 blackwells.co.uk
+0.0.0.0 www.blackwells.co.uk
+0.0.0.0 bookshop.org
+0.0.0.0 www.bookshop.org
+0.0.0.0 cex.co.uk
+0.0.0.0 www.cex.co.uk
+0.0.0.0 webuy.com
+0.0.0.0 www.webuy.com
+0.0.0.0 hmv.com
+0.0.0.0 www.hmv.com
+
+# Other Popular Retailers
+0.0.0.0 etsy.com
+0.0.0.0 www.etsy.com
+0.0.0.0 etsy.co.uk
+0.0.0.0 www.etsy.co.uk
+0.0.0.0 wayfair.co.uk
+0.0.0.0 www.wayfair.co.uk
+0.0.0.0 wayfair.com
+0.0.0.0 www.wayfair.com
+0.0.0.0 notino.co.uk
+0.0.0.0 www.notino.co.uk
+0.0.0.0 lookfantastic.com
+0.0.0.0 www.lookfantastic.com
+0.0.0.0 therange.co.uk
+0.0.0.0 www.therange.co.uk
+0.0.0.0 wilko.com
+0.0.0.0 www.wilko.com
+0.0.0.0 poundland.co.uk
+0.0.0.0 www.poundland.co.uk
+
 # Photography
-wexphotovideo.com
-www.wexphotovideo.com
-parkcameras.com
-www.parkcameras.com
-jessops.co.uk
-www.jessops.co.uk
-mpb.com
-www.mpb.com
-lcegroup.co.uk
-www.lcegroup.co.uk
-calumetphoto.co.uk
-www.calumetphoto.co.uk# Cycling
-wiggle.co.uk
-www.wiggle.co.uk
-chainreactioncycles.com
-www.chainreactioncycles.com
-evanscycles.com
-www.evanscycles.com
-tredz.co.uk
-www.tredz.co.uk
-halfords.com
-www.halfords.com
-cyclesurgery.com
-www.cyclesurgery.com
-rutlandcycling.com
-www.rutlandcycling.com# Skateboarding & Action Sports
-route-one.co.uk
-www.route-one.co.uk
-nativeskatestore.co.uk
-www.nativeskatestore.co.uk
-slamskateboarding.com
-www.slamskateboarding.com
-boardshop.co.uk
-www.boardshop.co.uk
-redbullshopuk.com
-www.redbullshopuk.com
-surfdome.com
-www.surfdome.com# Fishing
-anglingdirect.co.uk
-www.anglingdirect.co.uk
-tackleuk.co.uk
-www.tackleuk.co.uk
-fishingrepublic.co.uk
-www.fishingrepublic.co.uk
-sportfish.co.uk
-www.sportfish.co.uk
-totalfishing.com
-www.totalfishing.com# Running & Outdoor
-runnersneed.com
-www.runnersneed.com
-sweatshop.co.uk
-www.sweatshop.co.uk
-cotswoldoutdoor.com
-www.cotswoldoutdoor.com
-gooutdoors.co.uk
-www.gooutdoors.co.uk
-snowandrock.com
-www.snowandrock.com
-ellis-brigham.com
-www.ellis-brigham.com
-tiso.com
-www.tiso.com# Skiing & Snowboarding
-snow-rock.com
-www.snow-rock.com
-ski-bartlett.com
-www.ski-bartlett.com
-snowtrax.com
-www.snowtrax.com
-profeet.co.uk
-www.profeet.co.uk
-absolute-snow.co.uk
-www.absolute-snow.co.uk
-skiwebshop.com
-www.skiwebshop.com
-snowboarder-mbm.co.uk
-www.snowboarder-mbm.co.uk
-ski.co.uk
-www.ski.co.uk
-skibartlett.com
-www.skibartlett.com# Water Sports & Surfing
-surfdome.com
-www.surfdome.com
-saltrocksurfshop.com
-www.saltrocksurfshop.com
-warehamsurf.co.uk
-www.warehamsurf.co.uk
-kingofwatersports.com
-www.kingofwatersports.com
-wetsuitoutlet.co.uk
-www.wetsuitoutlet.co.uk
-oceanmagic.co.uk
-www.oceanmagic.co.uk
-sussexwatersports.co.uk
-www.sussexwatersports.co.uk
-boardshop.co.uk
-www.boardshop.co.uk
-ripcurl.eu
-www.ripcurl.eu
-wetsuit-warehouse.co.uk
-www.wetsuit-warehouse.co.uk# Climbing & Mountaineering
-rockrun.com
-www.rockrun.com
-v12outdoor.com
-www.v12outdoor.com
-outside.co.uk
-www.outside.co.uk
-bananafingers.co.uk
-www.bananafingers.co.uk
-climbinganchors.co.uk
-www.climbinganchors.co.uk
-weighmyrack.com
-www.weighmyrack.com# Camping & Hiking
-ultralightoutdoorgear.co.uk
-www.ultralightoutdoorgear.co.uk
-alpkit.com
-www.alpkit.com
-mountainwarehouse.com
-www.mountainwarehouse.com
-rohan.co.uk
-www.rohan.co.uk
-berghaus.com
-www.berghaus.com
-rab.equipment
-www.rab.equipment
-montane.com
-www.montane.com# Gaming
-game.co.uk
-www.game.co.uk
-gamestop.co.uk
-www.gamestop.co.uk
-shopto.net
-www.shopto.net
-simplygames.com
-www.simplygames.com
-thegamecollection.net
-www.thegamecollection.net# Art Supplies
-cass-art.co.uk
-www.cass-art.co.uk
-greatart.co.uk
-www.greatart.co.uk
-jacksonsart.com
-www.jacksonsart.com
-artsupplies.co.uk
-www.artsupplies.co.uk
-londongraphics.co.uk
-www.londongraphics.co.uk# Model Railways & Scale Models
-hattons.co.uk
-www.hattons.co.uk
-kernowmodelrailcentre.com
-www.kernowmodelrailcentre.com
-rails.org.uk
-www.rails.org.uk
-gaugemaster.com
-www.gaugemaster.com# Gardening
-gardenersworld.com
-www.gardenersworld.com
-crocus.co.uk
-www.crocus.co.uk
-thompson-morgan.com
-www.thompson-morgan.com
-gardening-direct.co.uk
-www.gardening-direct.co.uk
-yourgarden.sainsburys.co.uk
-www.yourgarden.sainsburys.co.uk# Pet Supplies
-petsathome.com
-www.petsathome.com
-zooplus.co.uk
-www.zooplus.co.uk
-petplanet.co.uk
-www.petplanet.co.uk
-viovet.co.uk
-www.viovet.co.uk# Board Games & Wargaming
-boardgameprices.co.uk
-www.boardgameprices.co.uk
-chaoscards.co.uk
-www.chaoscards.co.uk
-magicmadhouse.co.uk
-www.magicmadhouse.co.uk
-triplehelixwargames.co.uk
-www.triplehelixwargames.co.uk
-darksphere.co.uk
-www.darksphere.co.uk
-waylandgames.co.uk
-www.waylandgames.co.uk
-elementgames.co.uk
-www.elementgames.co.uk
-goblingaming.co.uk
-www.goblingaming.co.uk
-totalwargamer.co.uk
-www.totalwargamer.co.uk
-wargamer.co.uk
-www.wargamer.co.uk
-warlordgames.com
-www.warlordgames.com
-games-workshop.com
-www.games-workshop.com
-forgeworld.co.uk
-www.forgeworld.co.uk
+0.0.0.0 wexphotovideo.com
+0.0.0.0 www.wexphotovideo.com
+0.0.0.0 parkcameras.com
+0.0.0.0 www.parkcameras.com
+0.0.0.0 jessops.co.uk
+0.0.0.0 www.jessops.co.uk
+0.0.0.0 mpb.com
+0.0.0.0 www.mpb.com
+0.0.0.0 lcegroup.co.uk
+0.0.0.0 www.lcegroup.co.uk
+0.0.0.0 calumetphoto.co.uk
+0.0.0.0 www.calumetphoto.co.uk
+
+# Cycling
+0.0.0.0 wiggle.co.uk
+0.0.0.0 www.wiggle.co.uk
+0.0.0.0 chainreactioncycles.com
+0.0.0.0 www.chainreactioncycles.com
+0.0.0.0 evanscycles.com
+0.0.0.0 www.evanscycles.com
+0.0.0.0 tredz.co.uk
+0.0.0.0 www.tredz.co.uk
+0.0.0.0 halfords.com
+0.0.0.0 www.halfords.com
+0.0.0.0 cyclesurgery.com
+0.0.0.0 www.cyclesurgery.com
+0.0.0.0 rutlandcycling.com
+0.0.0.0 www.rutlandcycling.com
+
+# Skateboarding & Action Sports
+0.0.0.0 route-one.co.uk
+0.0.0.0 www.route-one.co.uk
+0.0.0.0 nativeskatestore.co.uk
+0.0.0.0 www.nativeskatestore.co.uk
+0.0.0.0 slamskateboarding.com
+0.0.0.0 www.slamskateboarding.com
+0.0.0.0 boardshop.co.uk
+0.0.0.0 www.boardshop.co.uk
+0.0.0.0 redbullshopuk.com
+0.0.0.0 www.redbullshopuk.com
+0.0.0.0 surfdome.com
+0.0.0.0 www.surfdome.com
+
+# Fishing
+0.0.0.0 anglingdirect.co.uk
+0.0.0.0 www.anglingdirect.co.uk
+0.0.0.0 tackleuk.co.uk
+0.0.0.0 www.tackleuk.co.uk
+0.0.0.0 fishingrepublic.co.uk
+0.0.0.0 www.fishingrepublic.co.uk
+0.0.0.0 sportfish.co.uk
+0.0.0.0 www.sportfish.co.uk
+0.0.0.0 totalfishing.com
+0.0.0.0 www.totalfishing.com
+
+# Running & Outdoor
+0.0.0.0 runnersneed.com
+0.0.0.0 www.runnersneed.com
+0.0.0.0 sweatshop.co.uk
+0.0.0.0 www.sweatshop.co.uk
+0.0.0.0 cotswoldoutdoor.com
+0.0.0.0 www.cotswoldoutdoor.com
+0.0.0.0 gooutdoors.co.uk
+0.0.0.0 www.gooutdoors.co.uk
+0.0.0.0 snowandrock.com
+0.0.0.0 www.snowandrock.com
+0.0.0.0 ellis-brigham.com
+0.0.0.0 www.ellis-brigham.com
+0.0.0.0 tiso.com
+0.0.0.0 www.tiso.com
+
+# Skiing & Snowboarding
+0.0.0.0 snow-rock.com
+0.0.0.0 www.snow-rock.com
+0.0.0.0 ski-bartlett.com
+0.0.0.0 www.ski-bartlett.com
+0.0.0.0 snowtrax.com
+0.0.0.0 www.snowtrax.com
+0.0.0.0 profeet.co.uk
+0.0.0.0 www.profeet.co.uk
+0.0.0.0 absolute-snow.co.uk
+0.0.0.0 www.absolute-snow.co.uk
+0.0.0.0 skiwebshop.com
+0.0.0.0 www.skiwebshop.com
+0.0.0.0 snowboarder-mbm.co.uk
+0.0.0.0 www.snowboarder-mbm.co.uk
+0.0.0.0 ski.co.uk
+0.0.0.0 www.ski.co.uk
+0.0.0.0 skibartlett.com
+0.0.0.0 www.skibartlett.com
+
+# Water Sports & Surfing
+0.0.0.0 saltrocksurfshop.com
+0.0.0.0 www.saltrocksurfshop.com
+0.0.0.0 warehamsurf.co.uk
+0.0.0.0 www.warehamsurf.co.uk
+0.0.0.0 kingofwatersports.com
+0.0.0.0 www.kingofwatersports.com
+0.0.0.0 wetsuitoutlet.co.uk
+0.0.0.0 www.wetsuitoutlet.co.uk
+0.0.0.0 oceanmagic.co.uk
+0.0.0.0 www.oceanmagic.co.uk
+0.0.0.0 sussexwatersports.co.uk
+0.0.0.0 www.sussexwatersports.co.uk
+0.0.0.0 ripcurl.eu
+0.0.0.0 www.ripcurl.eu
+0.0.0.0 wetsuit-warehouse.co.uk
+0.0.0.0 www.wetsuit-warehouse.co.uk
+
+# Climbing & Mountaineering
+0.0.0.0 rockrun.com
+0.0.0.0 www.rockrun.com
+0.0.0.0 v12outdoor.com
+0.0.0.0 www.v12outdoor.com
+0.0.0.0 outside.co.uk
+0.0.0.0 www.outside.co.uk
+0.0.0.0 bananafingers.co.uk
+0.0.0.0 www.bananafingers.co.uk
+0.0.0.0 climbinganchors.co.uk
+0.0.0.0 www.climbinganchors.co.uk
+0.0.0.0 weighmyrack.com
+0.0.0.0 www.weighmyrack.com
+
+# Camping & Hiking
+0.0.0.0 ultralightoutdoorgear.co.uk
+0.0.0.0 www.ultralightoutdoorgear.co.uk
+0.0.0.0 alpkit.com
+0.0.0.0 www.alpkit.com
+0.0.0.0 mountainwarehouse.com
+0.0.0.0 www.mountainwarehouse.com
+0.0.0.0 rohan.co.uk
+0.0.0.0 www.rohan.co.uk
+0.0.0.0 berghaus.com
+0.0.0.0 www.berghaus.com
+0.0.0.0 rab.equipment
+0.0.0.0 www.rab.equipment
+0.0.0.0 montane.com
+0.0.0.0 www.montane.com
+
+# Gaming
+0.0.0.0 game.co.uk
+0.0.0.0 www.game.co.uk
+0.0.0.0 gamestop.co.uk
+0.0.0.0 www.gamestop.co.uk
+0.0.0.0 shopto.net
+0.0.0.0 www.shopto.net
+0.0.0.0 simplygames.com
+0.0.0.0 www.simplygames.com
+0.0.0.0 thegamecollection.net
+0.0.0.0 www.thegamecollection.net
+
+# Art Supplies
+0.0.0.0 cass-art.co.uk
+0.0.0.0 www.cass-art.co.uk
+0.0.0.0 greatart.co.uk
+0.0.0.0 www.greatart.co.uk
+0.0.0.0 jacksonsart.com
+0.0.0.0 www.jacksonsart.com
+0.0.0.0 artsupplies.co.uk
+0.0.0.0 www.artsupplies.co.uk
+0.0.0.0 londongraphics.co.uk
+0.0.0.0 www.londongraphics.co.uk
+
+# Model Railways & Scale Models
+0.0.0.0 hattons.co.uk
+0.0.0.0 www.hattons.co.uk
+0.0.0.0 kernowmodelrailcentre.com
+0.0.0.0 www.kernowmodelrailcentre.com
+0.0.0.0 rails.org.uk
+0.0.0.0 www.rails.org.uk
+0.0.0.0 gaugemaster.com
+0.0.0.0 www.gaugemaster.com
+
+# Gardening
+0.0.0.0 gardenersworld.com
+0.0.0.0 www.gardenersworld.com
+0.0.0.0 crocus.co.uk
+0.0.0.0 www.crocus.co.uk
+0.0.0.0 thompson-morgan.com
+0.0.0.0 www.thompson-morgan.com
+0.0.0.0 gardening-direct.co.uk
+0.0.0.0 www.gardening-direct.co.uk
+0.0.0.0 yourgarden.sainsburys.co.uk
+0.0.0.0 www.yourgarden.sainsburys.co.uk
+
+# Pet Supplies
+0.0.0.0 petsathome.com
+0.0.0.0 www.petsathome.com
+0.0.0.0 zooplus.co.uk
+0.0.0.0 www.zooplus.co.uk
+0.0.0.0 petplanet.co.uk
+0.0.0.0 www.petplanet.co.uk
+0.0.0.0 viovet.co.uk
+0.0.0.0 www.viovet.co.uk
+
+# Board Games & Wargaming
+0.0.0.0 boardgameprices.co.uk
+0.0.0.0 www.boardgameprices.co.uk
+0.0.0.0 chaoscards.co.uk
+0.0.0.0 www.chaoscards.co.uk
+0.0.0.0 magicmadhouse.co.uk
+0.0.0.0 www.magicmadhouse.co.uk
+0.0.0.0 triplehelixwargames.co.uk
+0.0.0.0 www.triplehelixwargames.co.uk
+0.0.0.0 darksphere.co.uk
+0.0.0.0 www.darksphere.co.uk
+0.0.0.0 waylandgames.co.uk
+0.0.0.0 www.waylandgames.co.uk
+0.0.0.0 elementgames.co.uk
+0.0.0.0 www.elementgames.co.uk
+0.0.0.0 goblingaming.co.uk
+0.0.0.0 www.goblingaming.co.uk
+0.0.0.0 totalwargamer.co.uk
+0.0.0.0 www.totalwargamer.co.uk
+0.0.0.0 wargamer.co.uk
+0.0.0.0 www.wargamer.co.uk
+0.0.0.0 warlordgames.com
+0.0.0.0 www.warlordgames.com
+0.0.0.0 games-workshop.com
+0.0.0.0 www.games-workshop.com
+0.0.0.0 forgeworld.co.uk
+0.0.0.0 www.forgeworld.co.uk
