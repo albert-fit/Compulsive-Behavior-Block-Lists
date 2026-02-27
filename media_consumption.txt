@@ -2,7 +2,7 @@
 # Description: Popular social media platforms, video streaming, and content sites
 # Homepage: https://github.com/albert-fit/Compulsive-Behavior-Block-Lists/tree/main
 # License: MIT
-# Last modified: 2026-02-27
+# Last modified: 2026-01-XX XX:XX:XX UTC
 # Format: hosts
 # Entries: 210
 # URL: https://raw.githubusercontent.com/albert-fit/Compulsive-Behavior-Block-Lists/refs/heads/main/media_consumption.txt

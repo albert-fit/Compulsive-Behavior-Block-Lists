@@ -2,7 +2,7 @@
 # Description: UK Shopping and retail website domains
 # Homepage: https://github.com/albert-fit/Compulsive-Behavior-Block-Lists/tree/main
 # License: MIT
-# Last modified: 2025-01-XX XX:XX:XX UTC
+# Last modified: 2026-01-XX XX:XX:XX UTC
 # Format: hosts
 # Entries: 329
 # URL: https://github.com/albert-fit/Compulsive-Behavior-Block-Lists/blob/main/shopping.txt
