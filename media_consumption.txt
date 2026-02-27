@@ -1,0 +1,136 @@
+# Media Consumption Addiction Block List
+# Popular social media platforms, video streaming, and content sites
+# Last Updated: February 2026
+
+# Video Streaming Platforms
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+youtube-nocookie.com
+vid.me
+vimeo.com
+www.vimeo.com
+
+# Social Media Platforms
+tiktok.com
+www.tiktok.com
+m.tiktok.com
+instagram.com
+www.instagram.com
+m.instagram.com
+facebook.com
+www.facebook.com
+m.facebook.com
+fb.com
+twitter.com
+x.com
+www.twitter.com
+www.x.com
+snapchat.com
+www.snapchat.com
+reddit.com
+www.reddit.com
+m.reddit.com
+
+# Chat & Messaging Apps (Social/Entertainment)
+discord.com
+www.discord.com
+discordapp.com
+twitch.tv
+www.twitch.tv
+telegram.org
+t.me
+whatsapp.com
+icanhazchat.com
+
+# Short-form Video & Content
+vine.com
+triller.co
+quokka.com
+likee.com
+bigo.tv
+omegle.com
+chatroulette.com
+omegle.tv
+
+# Streaming Platforms
+netflix.com
+www.netflix.com
+disneyplus.com
+www.disneyplus.com
+hulu.com
+www.hulu.com
+amazon.com/prime
+primevideo.com
+www.primevideo.com
+hbomax.com
+www.hbomax.com
+peacocktv.com
+www.peacocktv.com
+paramountplus.com
+www.paramountplus.com
+appletv.com
+www.appletv.com
+
+# Music & Podcast Streaming
+spotify.com
+www.spotify.com
+apple.com/music
+podcasts.apple.com
+soundcloud.com
+www.soundcloud.com
+bandcamp.com
+spotify.com
+
+# News & Content Aggregation
+buzzfeed.com
+www.buzzfeed.com
+9gag.com
+www.9gag.com
+medium.com
+www.medium.com
+quora.com
+www.quora.com
+
+# Gaming & Streaming
+twitch.tv
+www.twitch.tv
+mixer.com
+youtubestream.com
+kick.stream
+
+# Photo Sharing
+pinterest.com
+www.pinterest.com
+flickr.com
+www.flickr.com
+imgurcom
+www.imgur.com
+
+# Additional Social Networks
+mastodon.social
+threads.net
+www.threads.net
+bluesky.com
+www.bluesky.com
+nextdoor.com
+www.nextdoor.com
+meetup.com
+www.meetup.com
+
+# Dating & Social Discovery
+tinder.com
+www.tinder.com
+bumble.com
+www.bumble.com
+hinge.co
+www.hinge.co
+
+# Live Streaming
+YouTube Live
+Twitch
+Facebook Live
+LinkedIn Live
+Instagram Live
+TikTok Live

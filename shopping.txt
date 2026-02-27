@@ -1,0 +1,93 @@
+# UK Shopping Websites Blocklist
+
+# Major Retailers
+amazon.co.uk
+amazon.com
+ebay.co.uk
+ebay.com
+argos.co.uk
+johnlewis.com
+currys.co.uk
+ao.com
+very.co.uk
+next.co.uk
+marksandspencer.com
+m-and-s.com
+tesco.com
+asda.com
+sainsburys.co.uk
+boots.com
+superdrug.com
+
+# Fashion & Clothing
+asos.com
+boohoo.com
+prettylittlething.com
+zara.com
+hm.com
+h-and-m.com
+primark.com
+newlook.com
+riverisland.com
+topshop.com
+jdsports.co.uk
+jdsports.com
+sportsdirect.com
+nike.com
+adidas.co.uk
+adidas.com
+
+# Home & Garden
+ikea.com
+ikea.co.uk
+dunelm.com
+homebase.co.uk
+screwfix.com
+toolstation.com
+wickes.co.uk
+diy.com
+bandq.co.uk
+
+# Electronics & Tech
+currys.co.uk
+scan.co.uk
+overclockers.co.uk
+cclonline.com
+ebuyer.com
+appledirect.com
+
+# Music Equipment (Specialist)
+andertons.co.uk
+gak.co.uk
+thomann.de
+guitarguitar.co.uk
+pmtonline.co.uk
+gear4music.com
+
+# Hobby & Crafts
+hobbycraft.co.uk
+modelzone.co.uk
+jadlamracingmodels.com
+wonderlandmodels.com
+spiritgames.co.uk
+firestormgames.co.uk
+
+# Books & Media
+waterstones.com
+whsmith.co.uk
+blackwells.co.uk
+bookshop.org
+cex.co.uk
+webuy.com
+hmv.com
+
+# Other Popular Retailers
+etsy.com
+etsy.co.uk
+wayfair.co.uk
+wayfair.com
+notino.co.uk
+lookfantastic.com
+therange.co.uk
+wilko.com
+poundland.co.uk
